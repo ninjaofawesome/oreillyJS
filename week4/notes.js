@@ -59,6 +59,24 @@ in
 >>> //shift right with zero extension
 , //discard first operand, return second
 
+//equality
+= //assignment
+== //equality, non-strict
+=== //strict equality
+
+//inequality
+!//"not", but not an operator
+!= //Does Not Equal
+!== //Does Not Equal, Strict Mode
+
+
+
+
+
+
+
+
+
 
 
 
